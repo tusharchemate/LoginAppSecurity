@@ -1,0 +1,16 @@
+
+
+body{
+	background-color:#83abd430;
+}
+.jumbotron{
+	margin-top:20%;
+	box-shadow:inset 1px 2px 15px #94c8fd;
+}
+.jumbotron:hover{
+	margin-top:20%;
+	box-shadow: 4px 2px 25px #94c8fd;
+	background-color:#c0e4c430;
+	color:#16583d;
+}
+
